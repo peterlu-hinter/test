@@ -5,20 +5,17 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    {"name": "Afghanistan", "code": "AF"}, 
-  {"name": "Albania", "code": "AL"}, 
-  {"name": "Algeria", "code": "DZ"}, 
-  {"name": "American Samoa", "code": "AS"}, 
-  {"name": "AndorrA", "code": "AD"}, 
-  {"name": "Angola", "code": "AO"}, 
-  {"name": "Anguilla", "code": "AI"}, 
-  {"name": "Antarctica", "code": "AQ"}, 
-  {"name": "Antigua and Barbuda", "code": "AG"}, 
-  {"name": "Argentina", "code": "AR"}, 
-  {"name": "Armenia", "code": "AM"}, 
-  {"name": "Aruba", "code": "AW"}, 
-  {"name": "Australia", "code": "AU"}, 
-  {"name": "Austria", "code": "AT"}
+    {"text": "Home", "website-link": "http://easyautocomplete.com/"},
+    {"text": "Guide", "website-link": "http://easyautocomplete.com/guide"},
+    {"text": "Themes", "website-link": "http://easyautocomplete.com/themes"},
+    {"text": "Examples", "website-link": "http://easyautocomplete.com/examples"},
+    {"text": "Download", "website-link": "http://easyautocomplete.com/download"},
+    {"text": "Github", "website-link": "https://github.com/pawelczak/EasyAutocomplete"},
+    {"text": "Home", "website-link": "http://easyautocomplete.com/"},
+    {"text": "Guide", "website-link": "http://easyautocomplete.com/guide"},
+    {"text": "Themes", "website-link": "http://easyautocomplete.com/themes"},
+    {"text": "Examples", "website-link": "http://easyautocomplete.com/examples"},
+    {"text": "Download", "website-link": "http://easyautocomplete.com/download"},
   ],
   "profile": {
     "name": "typicode"
