@@ -1,17 +1,9 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "comments": [
     {"text": "Home", "website-link": "http://easyautocomplete.com/"},
     {"text": "Guide", "website-link": "http://easyautocomplete.com/guide"},
     {"text": "Themes", "website-link": "http://easyautocomplete.com/themes"},
     {"text": "Examples", "website-link": "http://easyautocomplete.com/examples"},
     {"text": "Download", "website-link": "http://easyautocomplete.com/download"}
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
